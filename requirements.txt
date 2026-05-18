@@ -1,0 +1,3 @@
+pycryptodome
+PyQt6
+unicorn
